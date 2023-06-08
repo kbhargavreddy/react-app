@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.7698c8fd.css",
+    "main.js": "/react-app/static/js/main.fa60d4c9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/testpic.jpg": "/react-app/static/media/testpic.c9156e27a71b9d75a420.jpg",
+    "static/media/comp.jpg": "/react-app/static/media/comp.15382ff69d2d693f1b57.jpg",
+    "static/media/building.jpg": "/react-app/static/media/building.9a14c27a713a07d2648c.jpg",
+    "static/media/hands.jpg": "/react-app/static/media/hands.3b5fb17e28385e9b6c86.jpg",
+    "static/media/hero_img.png": "/react-app/static/media/hero_img.5a5c222634393ca74cdf.png",
+    "static/media/cubelogo.webp": "/react-app/static/media/cubelogo.3f671f400d79130a84af.webp",
+    "static/media/agile.png": "/react-app/static/media/agile.ab984320acd8e2bda7c9.png",
+    "static/media/test1.jpg": "/react-app/static/media/test1.8732aa377888dc5873fb.jpg",
+    "static/media/team.png": "/react-app/static/media/team.1ed6c03dc253ad5dd34d.png",
+    "static/media/artech.png": "/react-app/static/media/artech.f98090f5bbbf48cde71f.png",
+    "static/media/soft.png": "/react-app/static/media/soft.35c136481aa438b3b139.png",
+    "static/media/logo.svg": "/react-app/static/media/logo.013c7fde38744c262fde6259cbcf9b1a.svg",
+    "static/media/a.png": "/react-app/static/media/a.cae2a3e9bde44624cde6.png",
+    "index.html": "/react-app/index.html",
+    "main.7698c8fd.css.map": "/react-app/static/css/main.7698c8fd.css.map",
+    "main.fa60d4c9.js.map": "/react-app/static/js/main.fa60d4c9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7698c8fd.css",
+    "static/js/main.fa60d4c9.js"
+  ]
+}
