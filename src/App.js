@@ -1,4 +1,4 @@
-import hero from './hero_img.png';
+
 import './App.css';
 import Typed from 'react-typed';
 import AOS from 'aos';
