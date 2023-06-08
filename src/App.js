@@ -27,7 +27,7 @@ let color1={
        <main>
         <div class="first_section">
             <div class="left">
-             Hi, WELCOME TO &nbsp;<br></br>
+             Hi, WELCOME  &nbsp;<br></br>
              <span style={col1}>cloud source systems.</span> <h2>We provide</h2>
              <span style={col1}>
                <Typed
