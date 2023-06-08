@@ -1,0 +1,38 @@
+.text-custom{
+    color: #0062ff !important;
+    }
+  
+  .para1{
+    margin-top: 50px;
+  
+  }
+  
+  
+    .intro{
+      text-align: center;
+      
+    }
+
+    .section-title h2 {
+        font-weight: 700;
+        color: white;
+        font-size: 45px;
+        margin: 0 0 15px;
+        border-left: 5px solid #fc5356;
+        padding-left: 15px;
+      }
+      .section-title {
+        padding-bottom:0px;
+        padding-top: 40px;
+      }
+.misson_heading {
+    color:#fc5356;
+    font-size: 22px;
+    font-weight: 600;
+    display: block;
+    text-align: left;
+}
+.text p{
+    text-align: left;
+}
+

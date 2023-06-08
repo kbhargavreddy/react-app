@@ -1,0 +1,12 @@
+.navbar-brand img{ 
+height:50px;
+padding-left: 100px;
+}
+
+.navbar ul{
+  padding-right: 150px;
+}
+
+.navbar li{
+  padding-left: 15px;
+}
