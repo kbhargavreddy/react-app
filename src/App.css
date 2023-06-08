@@ -18,6 +18,7 @@ body{
   
 }
 .first_section{
+   background-color:rgba(46,61,90,255);
    display: flex;
    margin:23px 0;
    color:white;
