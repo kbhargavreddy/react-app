@@ -28,7 +28,7 @@ let color1={
         <div class="first_section">
             <div class="left">
              Hi, WELCOME To&nbsp;<br></br>
-             <span style={col1}>cloud source systems.</span> <h2>provide</h2>
+             <span style={col1}>cloud  systems.</span> <h2>We provide</h2>
              <span style={col1}>
                <Typed
                     strings={['Custom Software Development', 'IT Consulting Services', 'Cloud Solutions']}
